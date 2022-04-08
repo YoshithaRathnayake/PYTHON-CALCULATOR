@@ -1,4 +1,4 @@
-# <div align="center"><a href="https://yoshitharathnayake.w3spaces.com/Python_Calculator.html"><b><i>WELCOME!, TO MY PYTHON CALCULATOR</i></b></a></div> 
+# <div align="center"><a href="https://github.com/YoshithaRathnayake/PYTHON-CALCULATOR"><b><i>WELCOME!, TO MY PYTHON CALCULATOR</i></b></a></div> 
 
 > This is the Calculator that I made using <b><i>[Python Programming Language](https://www.w3schools.com/python/)</i></b>
 
@@ -14,7 +14,7 @@
 
 # [![Contributors](https://img.shields.io/badge/Contributors-1-lawngreen.svg?style=flat-square)](#contributors-)
 
-Available at :  <b><i>[https://yoshitharathnayake.w3spaces.com/Python_Calculator.html](https://yoshitharathnayake.w3spaces.com/Python_Calculator.html)</i></b>
+Available at :  <b><i>[https://github.com/YoshithaRathnayake/PYTHON-CALCULATOR](https://github.com/YoshithaRathnayake/PYTHON-CALCULATOR)</i></b>
 
 #
 # Run Locally
