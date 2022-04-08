@@ -10,7 +10,7 @@
 
 <a href="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/50/python--v1.png"/><a>
 
-# <div align="center"><img src="Images/Calculator.jpg" width="300px"></div>
+# <div align="center"><img src="images/Calculator.jpg" width="300px"></div>
 
 # [![Contributors](https://img.shields.io/badge/Contributors-1-lawngreen.svg?style=flat-square)](#contributors-)
 
@@ -36,7 +36,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://www.Yoshitha.tk"><img src="Images/Yoshitha Rathnayake 2.png" width="100px;" alt="Yoshitha Rathnayake"/><br /><sub><b>Yoshitha Rathnayake</b></sub></a><br/><a href="https://github.com/YoshithaRathnayake/PYTHON-CALCULATOR/commits?author=YoshithaRathnayake" title="Code">💻</a></td>
+    <td align="center"><a href="https://www.Yoshitha.tk"><img src="images/Yoshitha Rathnayake 2.png" width="100px;" alt="Yoshitha Rathnayake"/><br /><sub><b>Yoshitha Rathnayake</b></sub></a><br/><a href="https://github.com/YoshithaRathnayake/PYTHON-CALCULATOR/commits?author=YoshithaRathnayake" title="Code">💻</a></td>
   </tr>
 </table>
 
