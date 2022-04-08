@@ -6,6 +6,10 @@
 
 > This can only run in the Terminal
 
+> Used Programming Languages (Python) 
+
+<a href="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/50/python--v1.png"/><a>
+
 # <div align="center"><img src="Images/Calculator.jpg" width="300px"></div>
 
 # [![Contributors](https://img.shields.io/badge/Contributors-1-lawngreen.svg?style=flat-square)](#contributors-)
